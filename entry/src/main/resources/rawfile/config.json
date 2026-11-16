@@ -1,0 +1,9 @@
+{
+  "tokenUrl": "",
+  "apiUrl": "",
+  "issuer": "watch-demo@hmosdemos.iam",
+  "subject": "watch-demo@hmosdemos.iam",
+  "audience": "https://auth.hmosdemos.example/token",
+  "keyId": "test-key-1",
+  "lifetimeSeconds": 3600
+}

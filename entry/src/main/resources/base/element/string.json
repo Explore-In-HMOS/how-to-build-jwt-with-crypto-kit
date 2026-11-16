@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "JWT signing sample" },
+    { "name": "EntryAbility_desc", "value": "Builds and signs a JWT with Crypto Architecture Kit" },
+    { "name": "EntryAbility_label", "value": "JwtSigner" },
+    { "name": "title", "value": "JWT Signer" },
+    { "name": "btn_generate", "value": "Generate JWT" },
+    { "name": "btn_token", "value": "Get token" },
+    { "name": "btn_api", "value": "Call API" },
+    { "name": "steps", "value": "Steps" },
+    { "name": "local_mock", "value": "Local mock server" },
+    { "name": "test_key_note", "value": "Test key only. Do not ship a private key in a real app." },
+    { "name": "event_log", "value": "Event log" }
+  ]
+}
